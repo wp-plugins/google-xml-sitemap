@@ -1,6 +1,6 @@
 === Google XML Sitemap ===
 Contributors: corvannoorloos 
-Tags: sitemap, xml, google
+Tags: sitemap, xml, google, seo, bing
 Requires at least: 3.3
 Tested up to: 3.5
 Stable tag: trunk
