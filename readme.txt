@@ -3,7 +3,7 @@ Contributors: corvannoorloos
 Tags: bing, google, seo, sitemap, xml
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: trunk
+Stable tag: 0.1.1
 
 In its simplest terms, a XML Sitemap-usually called Sitemap, with a capital S-is a list of the pages on your website.
 
